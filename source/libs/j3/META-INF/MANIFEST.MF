@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jump3r
+Implementation-Version: 1.0.5
+Specification-Vendor: de.sciss
+Specification-Title: jump3r
+Implementation-Vendor-Id: de.sciss
+Specification-Version: 1.0.5
+Implementation-URL: https://git.iem.at/sciss/jump3r
+Implementation-Vendor: de.sciss
+Main-Class: de.sciss.jump3r.Main
+
